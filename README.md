@@ -1,4 +1,4 @@
-Snake Game in C
+Snake Game in C++
 
 Working:
 
